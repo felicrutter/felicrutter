@@ -1,3 +1,1 @@
-- 👋 Hi, I’m @felicrutter
-- 👀 I’m interested in web development.
-- 🌱 I’m currently learning JavaScript, PHP, React.
+- 👋 Hi, I’m @felicrutter. I interested in web development and currently learning JavaScript, PHP, React.
